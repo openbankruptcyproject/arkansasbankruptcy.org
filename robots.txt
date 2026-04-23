@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://arkansasbankruptcy.org/sitemap.xml
 
-Sitemap: https://arkansasbankruptcy.org/feed.xml
+
+Sitemap: https://arkansasbankruptcy.org/sitemapindex.xml
