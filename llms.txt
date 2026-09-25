@@ -1,5 +1,5 @@
-# Arkansas Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Arkansas Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Arkansas bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Arkansas exemptions, filing costs, means test, and what to expect in your case.
 
@@ -32,7 +32,7 @@ arkansasbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Can I Keep My Jewelry in Arkansas Bankruptcy?: https://arkansasbankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Arkansas?: https://arkansasbankruptcy.org/eviction.html
 - Arkansas Bankruptcy Exemptions - What You Can Keep: https://arkansasbankruptcy.org/exemptions.html
-- Arkansas Bankruptcy FAQ - 15 Common Questions Answered: https://arkansasbankruptcy.org/faq.html
+- Arkansas Bankruptcy FAQ [2026]: Filing Fees, Exemptions, and Eastern and Western Districts: https://arkansasbankruptcy.org/faq.html
 - Chapter 13 Bankruptcy in Fayetteville, Arkansas - Repayment Plans: https://arkansasbankruptcy.org/fayetteville/chapter-13.html
 - Chapter 7 Bankruptcy in Fayetteville, Arkansas - Eliminate Debt: https://arkansasbankruptcy.org/fayetteville/chapter-7.html
 - Arkansas Bankruptcy Exemptions - What You Can Keep in Fayetteville: https://arkansasbankruptcy.org/fayetteville/exemptions.html
@@ -42,7 +42,7 @@ arkansasbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Foreclosure and Bankruptcy in Arkansas: https://arkansasbankruptcy.org/foreclosure.html
 - Arkansas Bankruptcy Glossary: https://arkansasbankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Arkansas: https://arkansasbankruptcy.org/income-limits.html
-- Arkansas Bankruptcy - Chapter 7 & 13 Filing Guide: https://arkansasbankruptcy.org/
+- Arkansas Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://arkansasbankruptcy.org/
 - Judgments and Bankruptcy in Arkansas: https://arkansasbankruptcy.org/judgments.html
 - Keep Your Car in Bankruptcy in Arkansas: https://arkansasbankruptcy.org/keep-your-car.html
 - Keep Your House in Bankruptcy in Arkansas: https://arkansasbankruptcy.org/keep-your-house.html
@@ -70,7 +70,7 @@ arkansasbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Second Mortgages and Bankruptcy in Arkansas: https://arkansasbankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Arkansas - Will I Lose My Clearance?: https://arkansasbankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Arkansas: https://arkansasbankruptcy.org/small-business.html
-- Arkansas Bankruptcy Statistics - Filing Data and Trends: https://arkansasbankruptcy.org/statistics.html
+- Arkansas Bankruptcy Statistics [2026]: Filing Trends in the Eastern and Western Districts: https://arkansasbankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Arkansas: https://arkansasbankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Arkansas: https://arkansasbankruptcy.org/student-loans.html
 - Surrendering Your Car in Arkansas Bankruptcy - Process, Deficiency, Options: https://arkansasbankruptcy.org/surrender-car.html
@@ -81,6 +81,7 @@ arkansasbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Can I Travel During Chapter 13 in Arkansas?: https://arkansasbankruptcy.org/travel-chapter-13.html
 - Stop Wage Garnishment in Arkansas with Bankruptcy: https://arkansasbankruptcy.org/wage-garnishment.html
 - Privacy Policy: https://arkansasbankruptcy.org/privacy.html
+- About arkansasbankruptcy.org: https://arkansasbankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
